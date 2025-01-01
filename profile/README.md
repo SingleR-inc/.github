@@ -9,6 +9,6 @@ To get started, check out one or more of the links below:
 - The [GitHub page for the R package](https://github.com/SingleR-inc/SingleR).
 - The [book for the package](https://bioconductor.org/books/release/SingleRBook/).
 
-Python users may also be interested in [the Python implementation](https://github.com/SingleR-inc/singler).
+Python users may also be interested in [the Python implementation](https://github.com/SingleR-inc/singler-py).
 
 The cool logo was derived from [the sticker for the package](https://github.com/Bioconductor/BiocStickers/tree/devel/SingleR).
